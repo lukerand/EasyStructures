@@ -1,0 +1,9 @@
+name: EasyStructures
+version: ${project.version}
+main: com.developer.easystructures.Main
+api-version: 1.17
+description: A developer's tool that creates easily readable code files.
+website: https://spigotmc.com
+commands:
+  save:
+  load:
